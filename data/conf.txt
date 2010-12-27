@@ -1,0 +1,5 @@
+width=1280
+height=640
+bpp=32
+name=Technocracy
+Scene=scene
